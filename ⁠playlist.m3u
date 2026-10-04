@@ -1,10 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Al_Jazeera_English_logo.svg",الجزيرة الإنجليزية
 https://live-hls-web-aje.getty.akamaized.net/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/DW_Logo.svg",DW عربية
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/France_24_logo.svg",فرانس 24
 https://static.france24.com/live/f24_ar.m3u8
